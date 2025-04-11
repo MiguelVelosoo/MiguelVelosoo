@@ -15,7 +15,7 @@ Sigo evoluindo e buscando oportunidades para crescer na área de TI — sempre c
             src="https://img.shields.io/badge/-Gmail-%23333?color=9400ba&labelColor=9400ba&style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/https://www.linkedin.com/in/miguelvelosodev/">
+    <a href="https://www.linkedin.com/in/miguelvelosodev/">
         <img 
             alt="linkedin" 
             title="Me siga no linkedin" 
