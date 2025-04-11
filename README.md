@@ -1,8 +1,12 @@
-# Ana Beatriz 👩🏻‍💻
+# Miguel Veloso 👨‍💻
 
-**`Desenvoldora FullStack`**
+**`Desenvoldor FullStack`**
 
-Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac.Sou uma pessoa proativa, comunicativa e apaixonada por aprender e crescer na área tecnológica. Meu objetivo é continuar expandindo meus conhecimentos e habilidades, contribuindo para projetos inovadores e desafiadores que possam gerar impacto positivo.
+Oi! Sou estudante de Análise e Desenvolvimento de Sistemas no Senac e já venho trilhando meu caminho no mundo da tecnologia. Curioso por natureza, adoro desmontar e montar hardware, mexer com redes e dar vida a ideias com HTML e Dart.
+
+Gosto de explorar novas ferramentas, colocar a mão na massa com projetos práticos e aprender sempre que posso. Já tive experiências com repositórios como Replit e myCompiler, e também me viro bem com bancos de dados relacionais e algumas planilhas no Excel.
+
+Sigo evoluindo e buscando oportunidades para crescer na área de TI — sempre com vontade de fazer a diferença!
 <p align="left">
     <a href="https://anabeatrizdasilva263@gmail.com">
         <img 
